@@ -65,6 +65,12 @@ li{
     margin-left: 440px;
     white-space: nowrap;
 }
+.by > h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 140%;
+}
 .by:hover{
     cursor: pointer;
     color: #F9804B;
@@ -402,7 +408,7 @@ a{
     margin-top: 30px;
     margin-left: -12px;
 }
-.friend:hover, .donate_btn:hover{
+.friend:hover, .donate_btn:hover, .subscribe_form input[type=submit]:hover{
     cursor: pointer;
     transform: scale(1.1);
     transition: .5s ease;
