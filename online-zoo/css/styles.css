@@ -811,3 +811,10 @@ footer{
     height: 52px;
     margin-top: 31px;
 }
+.card > img{
+    transition: 1s; 
+}
+.card > img:hover{
+    transform: scale(1.06);
+    border: 1px solid #F9804B;
+}
