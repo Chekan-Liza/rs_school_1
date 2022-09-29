@@ -139,7 +139,7 @@ li{
     text-transform: uppercase;
 }
 .wacth_btn:hover, .btn_choose:hover, .btn_arrow_left:hover,
-.btn_arrow_right, .feed_btn:hover, .leave_btn:hover,
+.btn_arrow_right:hover, .feed_btn:hover, .leave_btn:hover,
 .donate_btn:hover, .subscribe_form input[type=submit]:hover{
     cursor: pointer;
     transform: scale(1.1);
